@@ -1,7 +1,7 @@
 catboost==1.2.5
 joblib==1.4.2
 matplotlib==3.9.2
-numpy==2.1.1
+numpy==1.26.4
 pandas==2.2.3
 shap==0.44.1
 streamlit==1.38.0
